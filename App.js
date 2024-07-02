@@ -1,10 +1,5 @@
-{
-  /* <div id="parent">
-  <div class="child">
-    <h1>I am h1 tag</h1>
-  </div>
-</div>; */
-}
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child" }, [
