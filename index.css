@@ -37,8 +37,10 @@
   gap: 10px;
 }
 
-.search {
+.filter-btn {
   padding: 10px;
+  margin: 10px;
+  cursor: pointer;
 }
 
 .res-logo {
