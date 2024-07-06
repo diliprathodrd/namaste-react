@@ -58,3 +58,8 @@ import {Component} from "path";
 
 - useState() - superpowerful react variables
 - useEffect()
+
+# 2 types of routing in web apps
+
+- client side routing
+- server side routing
